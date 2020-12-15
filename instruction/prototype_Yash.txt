@@ -1,0 +1,2 @@
+paper prototype is for the users to learn more about the hangman game. 
+the paper prototype interface is more convenient for the user to unterstand. 
